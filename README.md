@@ -1,94 +1,93 @@
-<div align="center">
+Amir Mohammad Maleki
 
-# 👋 Hi, I'm Amir Mohammad
+Backend Developer | Product Builder
 
-### **IBush-8**
+I build backend systems and turn ideas into practical software products.
 
-**Backend Developer · Problem Solver · Product Builder**
+My main focus is backend development with Node.js, building APIs, working with databases, and solving real-world problems through software.
 
-<br>
+I’m also learning Next.js to expand my skills in full-stack development.
 
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+⸻
 
-</div>
+About Me
 
----
+* Focused on Backend Development with Node.js
+* Experienced with building REST APIs and backend systems
+* Working with MongoDB and MySQL
+* Exploring frontend development with Next.js
+* Interested in software architecture, product development, and scalable systems
 
-## 🚀 About Me
+I believe great software starts with understanding problems and building useful solutions.
 
-I'm a backend developer focused on building **APIs, systems, and real-world software products**.
+⸻
 
-I enjoy solving problems, designing backend architectures, and turning ideas into working products.
+Tech Stack
 
-> **I don't just write code. I build systems.**
+Backend
 
----
+Node.js Express.js Socket.IO
 
-## 🛠️ Tech Stack
+Programming Languages
 
-**Languages**
+JavaScript
 
-JavaScript · TypeScript
+Databases
 
-**Backend**
+MongoDB MySQL
 
-Node.js · Express.js · REST API · Socket.IO
+Frontend
 
-**Database**
+Next.js React.js HTML CSS
 
-MongoDB · Mongoose
+Tools
 
-**Tools**
+Git GitHub Postman
 
-Git · GitHub · Postman · Swagger
+⸻
 
----
+Currently Learning
 
-## 🚧 Currently Learning
+* Next.js
+* TypeScript
+* System Design
+* Advanced Software Architecture
 
-- TypeScript
-- Advanced Node.js
-- PostgreSQL
-- System Design
-- Docker
-- Cloud Deployment
+⸻
 
----
+Selected Projects
 
-## 🎯 Mission
+Hospital Shift Management
 
-Build useful software.
+A backend system for managing hospital staff schedules and shift exchange workflows.
 
-Learn by building.
+* Shift management
+* Shift exchange logic
+* Real-time communication with Socket.IO
+* Authentication and business logic
 
-Improve every day.
+Radio Backend
 
----
+A backend project for a social audio platform.
 
-## 📌 Featured Projects
+* Audio-related features
+* API development
+* Backend architecture
 
-🏥 **Hospital Shift Management System**  
-Backend system for managing hospital staff shifts.
+E-commerce API
 
-🛒 **E-commerce API**  
-REST API for products, inventory and shopping workflows.
+A backend project focused on e-commerce functionality and business logic.
 
-🎙️ **Time Capsule**  
-A platform for sending voice messages to the future.
+⸻
 
----
+My Vision
 
-## 🤝 Connect
+I’m interested in building useful technology products, solving meaningful problems, and eventually creating products that reach a global audience.
 
-**GitHub:** [IBush-8](https://github.com/IBush-8)
+I don’t just want to write code. I want to build things that matter.
 
----
+⸻
 
-<div align="center">
-
-### Build. Learn. Improve. Repeat. 🚀
-
-</div>
+<p align="center">
+  <b>Build with purpose. Think in systems. Create value.</b>
+</p>
